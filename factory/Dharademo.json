@@ -1,0 +1,9 @@
+{
+	"name": "Dharademo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a80313c7-a961-49db-90d3-4f1b1fa7903f",
+		"tenantId": "11e86850-ea1c-4256-b52d-a75962ce3aef"
+	}
+}
